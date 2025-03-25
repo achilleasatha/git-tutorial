@@ -1,5 +1,7 @@
 colors = [
     'red',
     'blue',
-    'green'
+    'green',
+    'yellow',
+    'purple'
 ]
