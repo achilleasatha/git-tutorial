@@ -2,5 +2,7 @@ favorites = [
     'pizza',
     'sushi',
     'tacos',
-    'pasta'
+    'pasta',
+    'burger',
+    'ramen'
 ]
